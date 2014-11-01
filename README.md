@@ -2,7 +2,7 @@ hi from jonbri again
 OpenSource
 ==========
 
-hi from jonbri
+hi from JONBRI
 
 
 and here is another change
